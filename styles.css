@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  color: #007bff;
+  font-weight: bold;
+}
+
+canvas {
+  max-height: 300px;
+}
+
+#weekFilter {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
